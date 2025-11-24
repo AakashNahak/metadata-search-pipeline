@@ -1,0 +1,4 @@
+mysql-connector-python
+openai
+azure-search-documents
+python-dotenv
